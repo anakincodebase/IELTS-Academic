@@ -193,7 +193,6 @@ Every concept in here links to actual IELTS task examples. When you learn about 
 - [Listening Band6 Mistakes](08_IELTS_Application/Listening_Band6_Mistakes.md) - Common mistakes
 
 ###  10. Vocabulary & Lexical Resource
-- [Lexical Resource MOC](10_%20Vocab%20Lexical_Resource/Lexical_Resource_MOC.md) - Overview
 - [IELTS High Value Vocabulary and Collocations](10_%20Vocab%20Lexical_Resource/IELTS_High_Value_Vocabulary_and_Collocations.md) - High-value words
 - [Topic Word Banks](10_%20Vocab%20Lexical_Resource/Topic_Word_Banks.md) - Topic-based vocab
 - [Nouns Band8](10_%20Vocab%20Lexical_Resource/Nouns_Band8.md) - Advanced nouns
