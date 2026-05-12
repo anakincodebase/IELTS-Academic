@@ -53,7 +53,7 @@ Images and Audios/                     Supporting media files
 
 ---
 
-## Working with Images and Audio Files
+
 
 ### Important: How This Works on GitHub vs. Obsidian
 
@@ -97,40 +97,7 @@ This is the intended experience:
 6. Audio resources play from the sidebar
 7. Use the dashboard as your navigation hub
 
-### For GitHub Web Users
 
-You can learn from this vault directly on GitHub:
-
-1. Start with `00_Dashboard/Index_Dashboard.md`
-2. Read through the folder structure above
-3. Navigate to individual files as needed
-4. When you encounter media references, check the `Images and Audios/` folder
-5. Use the file's internal table of contents to navigate within sections
-
-### For Serious Test Takers (Recommended Approach)
-
-This is the structure that most students have found effective:
-
-**Week 1: Foundation Check**
-- Read `00_Dashboard/Index_Dashboard.md`
-- Honestly identify which of the 4 learning paths matches your situation
-- Take note of your current IELTS scores if you have them
-
-**Weeks 2–6: Focused Learning Phase**
-- Follow your chosen learning path consistently
-- Dedicate 30–45 minutes daily to learning concepts
-- Spend 15–20 minutes daily on drills and practice
-- Every Friday, review what you learned that week
-- Adjust your focus if something isn't clicking
-
-**Weeks 7+: Integration and Testing**
-- Move to `Practice_Tests/` for full practice tests
-- Take a complete practice test weekly
-- Review every single error against the relevant material file
-- Identify patterns in what you're still getting wrong
-- Adjust your study focus based on patterns, not one-off mistakes
-
----
 
 ## Why This Vault Works
 
@@ -201,53 +168,6 @@ Not just explanations. Each concept comes with exercises: the 90-second editing 
 | Confused about tense use | 03_Core_Tenses/ | Complete tense system breakdown |
 | Don't know when verbs are transitive | 02_Parts_of_Speech/Transitive_vs_Intransitive_Verbs.md | Application-focused explanation |
 
----
-
-## Study Approach That Actually Works
-
-**What to Do:**
-- Read files in order within each section (each builds on the previous)
-- Write your own examples for every concept you learn
-- Actually do the drills—don't skip them just because they feel simple
-- Review your own IELTS writing through the lens of what you just learned
-- Take practice tests to see measurable improvement
-- Notice patterns in your errors, not just individual mistakes
-
-**What Not to Do:**
-- Don't try to learn everything at once (pick one skill, master it, move on)
-- Don't read without writing your own examples
-- Don't skip the "Why does this matter?" explanations
-- Don't ignore your own common mistakes
-- Don't just memorize rules without understanding when to apply them
-- Don't use only one learning style if another one helps you
-
----
-
-## Contributions and Feedback
-
-This vault is a living document. English evolves, IELTS test patterns change, and student needs shift. Your feedback makes this better for everyone.
-
-Found something unclear or incorrect? Open an issue.
-Have a better explanation for a concept? Submit a pull request.
-Discovered a gap in the materials? Let us know in discussions.
-
----
-
-## Track Your Progress
-
-Use this to document your improvement:
-
-**When you start:**
-```
-Speaking: ___ (current band)
-Writing: ___ (current band)
-Reading: ___ (current band)
-Listening: ___ (current band)
-Overall: ___ (current band)
-```
-
-**After 4 weeks of focused study:**
-Retake a practice test and record your scores again. This is how you see whether your approach is working.
 
 ---
 
@@ -281,22 +201,6 @@ Please:
 - Don't use for commercial purposes without permission
 - Do credit the source if you share it
 
----
-
-## Your Next Steps
-
-1. **Start here:** Open `00_Dashboard/Index_Dashboard.md`
-2. **Be honest:** Assess your current level and identify your biggest challenge
-3. **Pick your path:** Follow one of the four learning paths outlined above
-4. **Commit to daily practice:** Consistency beats intensity—30–45 minutes daily beats 5 hours once a week
-5. **Review weekly:** Every Friday, assess whether your approach is working
-
----
-
-
-**You've got this.**
-
-The students who reach Band 8 aren't necessarily the smartest. They're the ones who studied the right way. They identified their specific gap, focused on it, and practiced consistently. That's what this vault teaches.
 
 
 
