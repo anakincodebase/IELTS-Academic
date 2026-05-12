@@ -1,7 +1,6 @@
 # IELTS Academic Vault
 
-Welcome to a complete, personal study notes for **IELTS Academic** excellence. This is not just another grammar reference—it's a comprehensive learning system built to help you move from struggling with concepts to consistently achieving Band 8+.
-
+Welcome to a complete, personal study notes for **IELTS Academic** excellence.
 **Note:** This personal notes vault is specifically designed for IELTS Academic (not General Training).
 
 Created by **Afnan Ahmed** | Last Updated: May 2026
